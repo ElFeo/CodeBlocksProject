@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664075061 source:d:\temp\vscodeprojects\arraysc\selectionsortproject\main.c
+	<stdio.h>
+	<stdlib.h>
+
