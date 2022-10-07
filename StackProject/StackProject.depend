@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1506835958 source:d:\temp\codeblocksproject\stackproject\ex-1.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"stack.h"
+
+1506835958 d:\temp\codeblocksproject\stackproject\list.h
+	<stdlib.h>
+
+1506835958 d:\temp\codeblocksproject\stackproject\stack.h
+	<stdlib.h>
+	"list.h"
+
+1506835958 source:d:\temp\codeblocksproject\stackproject\stack.c
+	<stdlib.h>
+	"list.h"
+	"stack.h"
+
